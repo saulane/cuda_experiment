@@ -1,0 +1,5 @@
+/.vscode
+/build
+/makefile
+/test_dl
+/test_dl.o
